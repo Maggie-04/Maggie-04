@@ -1,7 +1,7 @@
 ### 專長
 🐑 Information Science /
 🐶 Data Mangement /
-🐷 Englush
+🐷 English
 
 ### 經歷
 🐯 Fu Jen Catholic University
