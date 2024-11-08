@@ -1,10 +1,10 @@
 ### 專長
-🐑 圖書資訊 /
-🐶 資料管理 /
-🐷 英文
+🐑 Information Science /
+🐶 Data Mangement /
+🐷 Englush
 
 ### 經歷
-🐯 輔大圖資系
+🐯 Fu Jen Catholic University
 
 ### 信箱
-🐱 maggie.wang417@gmail.com
+🐱 410040418@m365.fju.edu.tw
